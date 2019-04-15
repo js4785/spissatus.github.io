@@ -10,7 +10,7 @@ const examples = {
   'example1':
       "In a few days Mr. Bingley returned Mr. Bennet's visit, and sat about ten minutes with him in his library.",
   'example2':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'It was the Dover road that lay, on a Friday night late in November, before the first of the persons with whom this history has business.',
   'example3':
       'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
   'example4':
