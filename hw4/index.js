@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
   'example4':
-      'In a few days Mr. Bingley returned Mr. Bennet's visit, and sat about ten minutes with him in his library.'
+      "In a few days Mr. Bingley returned Mr. Bennet's visit, and sat about ten minutes with him in his library."
 };
 
 function status(statusText) {
